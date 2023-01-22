@@ -4,11 +4,15 @@ A GCP and React based Social Network Application
 ### Overview
 Round-Table is a full-stack web application for people to share photos/videos and publish posts.
 
-<p align="center"><img src="Round-Table/pictures/demo-1.png" alt="Demo Picture"></p>
+### Demo Picture 1
+<p align="center"><img src="pictures/demo-1.png" alt="Demo Picture 1"></p>
+
+### Demo Picture 2
+<p align="center"><img src="pictures/demo-2.png" alt="Demo Picture 2"></p>
 
 ### Project Architecture
 
-<p align="center"><img src="Round-Table/pictures/web-architecture.png" alt="Project Architecture" width="700" height="400"></p>
+<p align="center"><img src="pictures/web-architecture.png" alt="Project Architecture" width="700" height="400"></p>
 
 ### Tools and Technologies
 
